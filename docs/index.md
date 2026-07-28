@@ -9,7 +9,7 @@ hide:
 
 ---
 
-## 📂 三大板块
+## 📂 四大板块
 
 <div class="grid cards" markdown>
 
@@ -28,6 +28,14 @@ hide:
     食堂攻略、宿舍生活、学习空间、校园服务、社团活动、快递收发——校内生存指南
 
     [:octicons-arrow-right-24: 校内指南](校内生活/index.md)
+
+-   :material-home-heart:{ .lg .middle } **🏠 宿舍琐事**
+
+    ---
+
+    宿舍公约、值日表、共享账本、集体活动、生日备忘、趣事吐槽——107 的独家记忆
+
+    [:octicons-arrow-right-24: 宿舍日常](宿舍琐事/index.md)
 
 -   :material-bookshelf:{ .lg .middle } **📚 学习**
 
