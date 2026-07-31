@@ -48,6 +48,30 @@
 
     [:octicons-arrow-right-24: 查看详情](蓝桥杯.md)
 
+-   :fontawesome-solid-square-root-variable:{ .lg .middle } **全国大学生数学竞赛**
+
+    ---
+
+    CMC，国内最具影响力的数学学科竞赛，AI 专业优势赛道
+
+    [:octicons-arrow-right-24: 查看详情](全国大学生数学竞赛.md)
+
+-   :fontawesome-solid-lightbulb:{ .lg .middle } **挑战杯**
+
+    ---
+
+    中国大学生科技创新最高水平赛事，学术科技+创业计划
+
+    [:octicons-arrow-right-24: 查看详情](挑战杯.md)
+
+-   :fontawesome-solid-rocket:{ .lg .middle } **中国国际大学生创新大赛**
+
+    ---
+
+    原「互联网+」，国内规模最大的大学生创新创业赛事
+
+    [:octicons-arrow-right-24: 查看详情](中国国际大学生创新大赛.md)
+
 </div>
 
 ---
@@ -57,10 +81,13 @@
 | 竞赛 | 大致时间 |
 |------|---------|
 | 美国大学生数学建模大赛（MCM/ICM） | 每年 1-2 月 |
+| 挑战杯校赛 | 每年 3-4 月 |
 | 蓝桥杯省赛 | 每年 4 月 |
+| 中国国际大学生创新大赛校赛 | 每年 4-5 月 |
 | CCPC 网络赛/区域赛 | 每年 8-11 月 |
 | 中国大学生数学建模大赛（CUMCM） | 每年 9 月 |
 | ICPC 区域赛 | 每年 10-11 月 |
+| 全国大学生数学竞赛初赛 | 每年 10-11 月 |
 
 ---
 
