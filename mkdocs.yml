@@ -191,6 +191,7 @@ plugins:
       type: date
       fallback_to_build_date: true
       enable_creation_date: true
+      enable_git_follow: false
 
 # ============================================================
 # 额外配置
