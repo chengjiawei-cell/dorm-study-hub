@@ -2,7 +2,7 @@
 
 ## 第1章 绪论
 
-<embed src="../../../assets/计算机程序设计/PPT/1计算机程序设计-绪论.pdf" type="application/pdf" width="100%" height="700px" style="border: 1px solid #ddd; border-radius: 4px;">
+<iframe src="../../../assets/计算机程序设计/PPT/1计算机程序设计-绪论.pdf" width="100%" height="800px" style="border: none;"></iframe>
 
 [:octicons-download-24: 下载](../../assets/计算机程序设计/PPT/1计算机程序设计-绪论.pdf)
 
@@ -10,7 +10,7 @@
 
 ## 第2章 数据
 
-<embed src="../../../assets/计算机程序设计/PPT/2计算机程序设计-数据.pdf" type="application/pdf" width="100%" height="700px" style="border: 1px solid #ddd; border-radius: 4px;">
+<iframe src="../../../assets/计算机程序设计/PPT/2计算机程序设计-数据.pdf" width="100%" height="800px" style="border: none;"></iframe>
 
 [:octicons-download-24: 下载](../../assets/计算机程序设计/PPT/2计算机程序设计-数据.pdf)
 
@@ -18,7 +18,7 @@
 
 ## 第3章 表达式和分支控制结构
 
-<embed src="../../../assets/计算机程序设计/PPT/3计算机程序设计-表达式和分支控制结构.pdf" type="application/pdf" width="100%" height="700px" style="border: 1px solid #ddd; border-radius: 4px;">
+<iframe src="../../../assets/计算机程序设计/PPT/3计算机程序设计-表达式和分支控制结构.pdf" width="100%" height="800px" style="border: none;"></iframe>
 
 [:octicons-download-24: 下载](../../assets/计算机程序设计/PPT/3计算机程序设计-表达式和分支控制结构.pdf)
 
@@ -26,6 +26,6 @@
 
 ## 第4章 循环与其它
 
-<embed src="../../../assets/计算机程序设计/PPT/4计算机程序设计-循环与其它.pdf" type="application/pdf" width="100%" height="700px" style="border: 1px solid #ddd; border-radius: 4px;">
+<iframe src="../../../assets/计算机程序设计/PPT/4计算机程序设计-循环与其它.pdf" width="100%" height="800px" style="border: none;"></iframe>
 
 [:octicons-download-24: 下载](../../assets/计算机程序设计/PPT/4计算机程序设计-循环与其它.pdf)
